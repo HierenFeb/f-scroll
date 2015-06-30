@@ -1,0 +1,13 @@
+.animated {
+    opacity: 0;
+}
+.animated.f-show {
+    opacity: 1;
+}
+.section-demo {
+	height: 200px;
+	padding: 250px;
+	text-align: center;
+	font-size: 25px;
+	background: blue;
+}
